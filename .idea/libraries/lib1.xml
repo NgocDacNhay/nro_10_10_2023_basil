@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/GirlkunNetwork.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/girlkundb-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json_simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-commons-lang.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

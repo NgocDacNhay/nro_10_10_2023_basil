@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mobtemplate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/girlkun/mobtemplate.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
